@@ -6,5 +6,5 @@ def median(input_list):
   else:
     return (input_list[middle_num] + input_list[middle_num - 1]) / 2
 
-list1 = [0, 1, 2, 3, 4, 5]
+list1 = [0, 1, 2, 3, 4, 5, 6]
 print("median:" , median(list1))
